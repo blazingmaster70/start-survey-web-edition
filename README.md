@@ -54,6 +54,8 @@ belong to their respective owners.
     <li>JavaScript</li>
 </ul>
 
+<hr>
+
 <h2>Visit</h2>
 <p><a href="https://start-survey-web-edition.vercel.app/">The Website</a></p>
 
